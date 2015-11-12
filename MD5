@@ -1,7 +1,7 @@
-fb8c555ff707bb63ad6a6e2e9d50f6a0 *DESCRIPTION
-00732415e52b61e7bf43d36579c4bcf8 *NAMESPACE
-f38102f970da9c5589f9c5d8f03dbae2 *NEWS
-45cc15e426d71f14cf1a3c7db2426517 *R/Functions.R
+0e070cd87c2dc9899a2c86c92bf37a2f *DESCRIPTION
+5c480fd2639935ef826c1fb6f96eac4d *NAMESPACE
+9435658fe80055ba1e92b0a6adc0302d *NEWS
+2b169a2cee70f7f4d236d4eabcbedb8d *R/Functions.R
 65e491f8b3b3b57033db5fecdb0ad1c7 *R/IntegratedJM.R
 1450400604841b16f1dc03dabd259020 *data/sampleData.rda
 8eb5e420c6ebb39262a0e3c26f9f871f *man/IntegratedJM.Rd
@@ -15,3 +15,4 @@ bbb85b3ff4e8575d0c52be0be62c2813 *man/plotAsso.Rd
 602cf987e410c9028a380dc3591e8ad7 *man/plotEff.Rd
 16c5ab8be8d13aa0996d7346e7f245bb *man/sampleData.Rd
 f3d5408d6da60d5ff4fbd121ff284e93 *man/topkGenes.Rd
+f4b9bf543d53851b98436e296005cb4a *man/volcano.Rd
